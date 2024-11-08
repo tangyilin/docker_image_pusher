@@ -1,4 +1,4 @@
-
+mongodb:4.0.28
 #snowdreamtech/frpc:latest
 #hslr/sun-proxy:latest
 #hslr/sun-panel:latest
