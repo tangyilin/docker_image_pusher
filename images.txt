@@ -1,4 +1,5 @@
-mongo:4.0.28
+mysql:8.0.30
+#mongo:4.0.28
 #snowdreamtech/frpc:latest
 #hslr/sun-proxy:latest
 #hslr/sun-panel:latest
